@@ -1,0 +1,555 @@
+﻿505. Jango beg, jango kill.
+506. Jimbo say Ebery man 'kin he own teet.
+507. Joseph no come fo blow fiah fo' eberybody; who blow fish fo'he, he blow fo' dem.
+508. Jumby bi'd halla funeral a-day.
+509. Jumby calalu can't mek sweet soup.
+510. Jumby like white clat'.
+511. Jumby nebba see sal'; he swear a-sugah.
+512. Jumby sen' spirit; spirit sen' he waiting boy.
+513. Jump jump trademan han' open 'pon Satu'day.
+514. Kick an' cuff same knack.
+515. Kill pieknie, gie mamma, mamma no go eat am; kill mamma gie picknie, picknie go eat am.
+516. Kiskadee on cowback.
+517. Kitchen dressah fall down, magah daag laugh.
+518. Knock daddy heaby, pieknie sa friken.
+519. Lang discou'se mek dem ketch runaway niggah.
+520. Lang nose daag can't blow fiah.
+521. Lang 'tory tu'tle no wan' mek he carry he trunk a-he back.
+522. Larnid man walk saf'ly, unlarnid man keep nise.
+523. Lazy man always get 'nough wo'k.
+524. Lazy man belly neba sa full.
+525. Leaf fall a-watah, he no rotten wan time.
+526. Less company, less dutty plate.
+527. Lie hab no legs.
+528. Lie mo' dan fiah-bu'n.
+529. Li'l boy a-swell big man yeye.
+530. Li'l boy na a-climb laddah fo' tu'n big man.
+531. Li'l fingah say "Look yandah," bing t'umb say "Look yah."
+532. Li'l fun bettah mo' dan whole gun.
+533. Li'l garden, but bittah weed.
+534. Li'l juta, big juta, same money; gie am big juta.
+535. Li'l trench a-hol' in big fish.
+536. Limb can't 'tan berout tree.
+537. Lime nebba tas'e sweet.
+538. Loose-goat na a-feel wha' tie-goat a-feel. 
+539. Luck mo' bettah dan han'some.
+540. Maccaw ask parrot pajarra ripe, he say "Wan, wan."
+541. Man a-cou'tin' mus' go gay.
+542. Manaja cow say, "Bacra wo'k nebba done."
+543. Manaja haas nyam good oats.
+544. Manaja 'tap coolie money, but when coolie mek tadja, a-manaja doo' mout' fus' he a-play.
+545. Man always look fo' wha' he no wan' fo' see.
+546. Man bin see monkey neck befo' he put chain a-he waist.
+547. Man buy big belly haas, he wan ha' fo cut grass.
+548. Man can't do bettah; he say "No mattah."
+549. Man can't get pamawarri if he friken he pimplah go chook am. 
+550. Man can run, but man can't hide. 
+551. Man cut he timbah sa haul am.
+552. Man dead, grass grow a-he doo'. 
+553. Man die, he die fo' true.
+554. Man done cook, spoon las'.
+555. Man drunk, ooman drunk, who fo' shut de doo'. 
+556. Man gat mannas, he get big foofoo.
+557. Man gat sense, but haas can kick am.
+558. Man gat too much tongue, he pay he daddy debt.
+559. Man gat two 'ouse, he sleep hungry.
+560. Man gat two yeye, but can't look a-two place.
+561. Man han' a-mek twine, but twine a-tu'n back tie he han'.
+562. Ma'nin' bad name bettah mo' 'an aftanoon wan.
+563. Man knack iron, iron na a-feel am, iron knack man, man a-feel am.
+564. Man know he weak, he refuse 'trang man challenge.
+565. Man know you' face, but he na know you' haat.
+566. Man mek coffin, but he no like a-go deh.
+567. Man mus' pay fo' larn sense.
+568. Man mus' see he wife fus' befo' he buy bed.
+569. Man na a tief teh watchman ketch am.
+570. Man na know a trouble, but he know too much a trouble.
+571. Man na know he mamma use teh he dead.
+572. Man no done sleep, he no done dream.
+573. Man no gat foot, he can't walk.
+574. Man no like you, he gie you basket fo' fetch watah.
+575. Man no nuse (used to) chacklit, he say he no a drink am. 
+576. Man no talk, news can't go.
+577. Man satisfy, he bore pat.
+578. Man see gooby, but he na know wha' deh inside. 
+579. Man talk too much, he pay he daddy debt.
+580. Man 'tart befo' he ready can't meet good.
+581. Man tell he matty farchin, but can't tell he own.
+582. Man tek row a-dam bed he na care am true, he matty care am fo❜ am. 
+583. Man wan' fo' drink rum, he say yah tas'e brandy fo' gie am appetite.
+584. Man wah got bottle a-table got plenty frien'.
+585. Man wah know book, na haad fo' fin' chaptah.
+586. Man wah na gat sense 'tan' like bucket berout battam.
+587. Man wah wan' two wife mus' hab two tongue.
+588. Man weapon a-he fist, woman weapon a-he tongue. 
+589. Man wid sense na go shub he head a-hole.
+590. Marabuntah a bite, but he can't bite nancy. 
+591. Married na sure he gat foot.
+592. Married gat teet', he bite like crab.
+593. Married no got back doo.'
+594. Massa bull, massa cow.
+595. Massa niggah a-blanket.
+596. Matty loss he haag, he neighbah co'n-jah full. 
+597. Matty wan you wan', you' wan you hide.
+598. Matty somet'ing sweet fo you own bittah.
+599. Me a fiah, me can't 'tan' a-bag.
+600. Me bin a good dance man, but chiggah 'pile me foot.
+601. Me buy me calico, me mus' wear am.
+602. Me dead haag a'ready, me no ca' fo' 'tink.
+603. Me no gat befo', me no got behin.'
+604. Me no gat no biscuit a-you' barrel. 
+605. Me no bo'n a-Ogle back dam.
+606. Me sell me 'tory as me buy am.
+607. Mo' easy fo' 'tap ribah dan woman tongue.
+608. Mo' langah you 'tan', mo' you bake-bake a-col.'
+609. Mo' man refuse, mo' dinnah save.
+610. Mo' money, mo' sin.
+611. Mo' monkey climb, mo' he show he tail.
+612. Money done, frien' done.
+613. Money na a-grow 'pon tree.
+614. Money na mek man.
+615. Monkey know wha' tree he a-climb 'pon.
+616. Monkey mek he picknie, he mek ama teh 'e 'pile am.
+617. Monkey men' 'e chil' eye teh 'e go deep deep.
+618. Monkey papa jump, monkey mamma jump, monkey picknie mus' jump.
+619. Monkey play fiddle fo' de baboon run race.
+620. Monkey put he head a-salmon pat, he say de worl' go roun'. 
+621. Monkey say "Wha' deh a-me belly a-me own, wha' deh a-me mout' a jackman want."
+622. Monkey tek trouble a-bush bring am a-house.
+623. Monkey tu'n rich, he roas' buttah 'pon 'tick. 
+624. Moon an' 'tar a-neighbour.
+625. Moon a-run, but day a-ketch am.
+626. Mo' rain, mo' rest.
+627. Mout' a freeman, han' a slabe.
+628. Mout' a-mek am, someweh else a-pay fo' am. 
+629. Mout' cut trouses can't fit massa.
+630. Mout' eat, back pay.
+631. Na a fus' wan to tell matty he 'kin black. 
+632. Na all a-go a-chu'ch house, a-go fo' pray.
+633. Na all daag wah play wid you gat you good a-he min'. 
+634. Na all haas wah get fus' jump a-win race. 
+635. Na all man a-cou'tin' a-married.
+636. Na all man a-wear trouses a man.
+637. Na all watah wah come out a-yeye a-cry.
+638. Na cuss snake befo' you walk a-bush. 
+639. Na cuss watah mamma w'en you go a-creek. 
+640. Na cut you' yeye 'pon me.
+641. Na cut you' nose fo' pile you' face.
+642. Na de lacking ob a tongue mek cow can't talk.
+643. Na dutty de pon' weh you dip you' watah.
+644. Na ebery big head gat sense.
+645. Na ebery man wah say "Goo' night," a-sleep togeddah.
+646. Na eberyt'ing wah go a market fo' sell.
+647. Na eberyt'ing wah gat sugah a-sweet.
+648. Na eberyt'ing you see, mout' fo' talk.
+649. Na fo'co youse'f a big puncheon, when buttah keg can hol' you. 
+650. Na fo want ob fiah mek peas 'tan' lang fo bile.
+651. Na good fo' hot you matty chair too much.
+652. Na jook 'tick a-you matty yeye, no so somebody else go jook a-fo' you.
+653. Na leh to-day 'pile to-morrow.
+654. Na mek moonlight fool you, an' gie dark night saucy.
+655. Na mek wan belly-full fool you. 
+656. Na mek sweet mout' fool you.
+657. Na mek you' aez pass you' head.
+658. Na monkey 'lone does mek trouses, and fin' he can't fit am. 
+659. Na only tief man daag bark 'pon.
+660. Na 'pread table clot' befo' pat done bile.
+661. Na put on long coat an' smoke cigah when you go a-watah mamma dance.
+662. Na put on Sunday clo'es 'pon week-a-day 'kin.
+663. Na shub you' han' a-matty saucepan.
+664. Na 'tap fo' roll up 'tackin' when you a-run fo' train.
+665. No tek man by dem look.
+666. Na tek me mek you' coo-coo pat.
+667. Na tek out you guts and put in 'traw.
+668. Na tek shame face shake cuckaba niggah han'.
+669. Na tek you matty yeye fo' sleep wid.
+670. Na t'row 'way dutty watah teh you get clean.
+671. Na wan daag name Pompey.
+672. Nancy no like fo' ketch marabuntah 'cause he gat lang 'ting.
+673. Nebbah de day canoe bore punt.
+674. Nebbah eat crab-back an' drink watah.
+675. Nebbah go a-night fo' buy black clat' a-'tore.
+676. "Nebbah min'" mek estate no gat back-dam.
+677. Nebbah out fiah to fury.
+678. Nebbah sell eberyt'ing as you buy am.
+679. Nebbah shub you' head weh you know you go fasten. 
+680. Nebbah trouble trouble till trouble trouble you.
+681. Nebbah t'row 'way to-day wha' you go want to-morrow. 
+682. Nebbah t'row 'way you walking 'tiek teh you cross ribah. 
+683. Nebbah you try fo' mek H tu'n K.
+684. Niggah a-climb up, he matty a-pull he down. 
+685. Niggah fo'get, Bacra 'membah.
+686. Niggah libe happy, he go tell gubnah "ma'nin'." 
+687. Niggah say, "Wait fus"; Potagee say, "Specalah." 
+688. No bettah de barrel, no bettah de herrin'.
+689. Nobody go beg w'en rain da come.
+690. Noise a-market no selling day. 
+691. No ketchee, no habee.
+692. No langah fiddle, no langah dance.
+993. No name, no warrant.
+694. Nonsense man tek fark fo' nyam soup. 
+695. No trick no libin'.
+696. Now a mango season; matty no a-si' down matty doo' mout'. 
+697. Nyam some, lef' some fo' to-morrow.
+698. Ochro an' cassava can't mek soup a-wan pat.
+699. Ol' fiah-'tick soon ketch.
+700. Ol' granny sweah fo' catapillah; catapillah sweah fo' wo'k he belly.
+701. Ol' grudge mek bat lay egg.
+702. Ol' grudge, new licks.
+703. Ol' guitar play bery nice chune.
+704. Ol' rat eat new cheese.
+705. O tings a-bring new ones. 
+706. One egg can't gie two chicken. 
+707. One fingah can't ketch louse. 
+708. One fool mek many.
+709. One man can't falla two gooby.
+710. One man mek patata bank, all man dig am.
+711. One man money mek too much man cry.
+712. One one dutty buil' dam.
+713. One time nebbah done am.
+714. One time see sa do, but two time is purpose.
+715. Only cow know why, an' fly feel sarry God gie a long tail. 
+716. Only knife know wha' deh a-punckin belly.
+717. Ooman min' lang talk, he pat bu'n a-fiah. 
+718. Ooman na lobe man, he say "Place na deh." 
+719. Open you yeye, you sa sabby sense. 
+720. Orange nebbah fall too far from he tree. 
+721. Orange yalla, but you na know if he sweet. 
+722. Out a-do watah, inside a-putto-putto.
+723. Padlock you' tongue, or it lock you up.
+724. Patience man dribe jackass.
+725. Patwa an' ouri fetch away, ouri say " Wai' awe go meet a-'tap aff."
+726. Pay fus' mo' bad dan don't pay at all.
+727. Payman nebbah loss.
+728. Pay to-day, trus' to-morrow.
+729. Picknie can't get mamma, he suck granny.
+730. Picknie can't heah, he mus' feel.
+731. Picknie dead fo' prupose, mamma sa bury am prupose.
+732. Pieknie dis time cut dem yeye teet' too soon.
+733. Picknie head hab cra-cra, he no want am fo' comb. 
+734. Picknie niggah know fo' run, but na know fo' hide. 
+735. Picknie no heah "'Tan' easy," he sa heah "Aow, poo' ting." 
+736. Picknie no tek lef' han' fo' t'row he daddy poverty.
+737. Picknie pig say to mamma, "Wha' mek you' mout' long so?" Mamma say, "Wai' chil', you a-come."
+738. Picknie wah no yerry mamma 'tory he wan side jiggeh (jacket) go lef' a-doo'.
+739. Pint pot tu'n down, gill pot tu'n up.
+740. Plantain yalla can't come green.
+741. Play wid monkey, but na play wid 'e tail.
+742. Play wid puppy, puppy lick you mout'.
+743. Play wid tigah picknie, but na play wid 'e mamma.
+744. Plenty way deh fo choke dang widout hangin' rope roun' he neck.
+745. Poo' is no disesse.
+746. Poo' man a-rich man slabe.
+747. Poo' man can't bex, but he t'ink it haad.
+748. Poo' mek man greedy.
+749. Poo' nebbah sorry fo' hese'f.
+750. Pot bile, man laugh.
+751. Promise get frien'; perform keep am.
+752. Promise is butterfly, put trus' deh, you loss 'pan you' han'.
+753. Pumpkin nebbah bear calabash.
+754. Pumpkin nebba mek white soup.
+755. Pu'se full, plenty frien'
+756. Puss, cat.
+757. Quick cent bettah mo' 'an slow dallah.
+758. Rabbit pieknie aez nebbah cut.
+759. Rain fall, day shine, me granny Betsy barrel a-full.
+760. Rain fall jug na full, dew sa full am?
+761. Rain fall mek sheep an' goat a-wan pen. 
+762. Rain fall wet tigah, dem call am bush-daag. 
+763. Rain no fall, granny na run.
+764. Ramgoat no cry fo' ho'n, he cry fo' libin'.
+765. Ramgoat say he soonah he mamma dead, befo' afternoon rain wet he.
+766. Rat a-fo'get, trap na fo'get.
+767. Ratta tongue sell he head.
+768. Red dobe na a-obah ribah fo' look fo' groun' dobe.
+769. Rice bile, 'poon las'.
+770. Rich man sick, poo' man drunk.
+771. Rock a-battam a-ribah no feel sun hot.
+772. Rum done, fun done.
+774. Run from coffin, you sa butt up wid jumby. 
+775. Run rum run he a-come.
+776. Sabby somet'ing does always deh behin' han'. 
+777. Saf' haat mek Industry buil'in' bruck.
+778. Saf'ly ribah run deep.
+779. Saf'ly saf'ly ketch monkey.
+780. Saf'ly saf'ly fly done daag ear.
+781. Same like massa, same like man.
+782. Sarvice obah chu'ch doo' lack.
+783. Satisfy bi'd an' hungry bi'd can't fly togeddah. 
+784. Satisfy bi'd tell hungry bi'd " Wai' lil bit." 
+785. Seca fo' see can't do bettah.
+786. Sell you' po'k weh you get you fat.
+787. Sensa fowl na wan' feddah, him wan' co'n.
+789. Shaat pa' a-kill man.
+790. Shaat road a-bruck daag foot.
+791. Shine you' boots fus' befo' you shine you' matty wan.
+792. Shoes alone know if 'tockin's hab holes.
+793. Sick mamma call, 'cause he want ketch you' voice. 
+794. Sick man look fo' dactah.
+795. Sick sa done, but trick can't done.
+796. Silk and 'carlet a-sin mamma. 
+797. Sin bittah mo' dan gall.
+798. Since Beg paadon" come a-fashion, li'l boy mash big man foot. 
+799. Since Buck benab bu'n, fai' play no deh.
+800. Skillet can't tell pat say 'e battam black. 
+801. Slow motion bring heavy come down.
+802. Snake picknie na know 'e name teh 'e go a-dam.
+803. Somebody no walk, he no eat massa plantain.
+804. Some goat a-run from daag, but some a-put he handle 'pon am.
+805. Some man a-fatten haag fo' dem matty eat.
+806. Sometimes white face carry black haat. 
+807. Somet'ing mo' dan cane mek he tu'n sugah. 
+808. Soup col', daag put mout' deh. 
+809. Soup po'k no deh da se'f.
+810. Sour grass a man no a-shame.
+811. Spit a-de sky, he sa fall a-you' face.
+812. Spiteful man like cow-down, haad a-tap, saf' a-battam.
+813. Spiteful man put peppah da-he mout' fo' blow dutty out a-he matty yeye.
+814. Still tongue keep wise head.
+815. Stranger no know berrin' groun'.
+816. Suck teet' an' cut yeye tek aff 'pon a man.
+817. Sugah haagshead nebbah kill hanch.
+818. Sun hot da-wha, a stroke man.
+819. Sun na down, na cuss mangy daag.
+820. Sun no down, man no done cry.
+821. Suppose he no done to-day, he sa done to-morrow. 
+822. Sweet haat a-sweet bread, you nyam am he done. 
+823. Sweet mout' bring runaway niggah home.
+824. Sweet orange no a-fall a-groun'.
+825. Sweet soup mek you eat sour foofoo.
+826. Talk is de las' food.
+827. Talkin' dis an' talkin' dat, nebbah peep a-you matty pat.
+828. Talk ob de debil an you heah he wings.
+829. 'Tan' farra, see bettah.
+830. 'Tan' saf'ly bettah dan beg paadon.
+831. 'Tap-aff bruck, fish get 'way.
+832. "Tar rope an' man back na agree. 
+833. Teet' an' tongue mus' bite. 
+834. Tenkee kill me granny cat.
+835. The same tongue that drive cow a-pen, no so drive him out.
+836. The stillest calf sucks the longest draught.
+837. Tief from tief mek Garamighty laugh. 
+838. Time fo' mule, time fo' lang chain.
+839. Tief man an' daag na frien'.
+840. Tief man no like fo' see he matty walk with big bag.
+841. Tief man no like moon.
+842. Tigah feel fiah a-he tail, he halla fo' cool breeze.
+843. Tigah sen' daag, daag sen' he tail.
+844. Tigah tief co'n, he get he 'kin mark.
+845. Tigah wan' fo' ketch fowlcock, he tell am country tu'n.
+846. Time a-go 'way, but he no a-come back.
+847. T'ing a-sleep, no wake am.
+848. T'ing deh fo' mek cow run lef' he calf.
+849. To-day fo' you, to-morrow fo' me.
+850. Tongue na gat teet', but he bite fo' true.
+851. Tom drunk, but Tom no fool.
+852. Too much a ol' 'tump to be easily bu'n by fiah.
+853. Too much 'kin teet' no laugh.
+854. Too much ratta don't dig deep hole. 
+855. Too much sal' 'pile you' soup. 
+856. Too much side bruck trouses. 
+857. Too much si' down bruck breeches. 
+858. Too much watah no mek good soup. 
+859. 'Tory a-mout no load you' 'tomach. 
+860. Tory bus' as you leh woman know.
+861. "Tory ol', he no sweet.
+862. Tree silver fish cant mek one Congo fish.
+863. Trial makes mention.
+864. Trouble an' sea no gat no back doo.
+865. Trouble a-deh a-bush, a monkey a-bring am a-house. 
+866. Trouble come 'pon horseback, he go 'way 'pon foot. 
+867. Trouble go 'pon legs, 'candal hab wings.
+868. Trouble mek ol' ooman trat.
+869. Trouble mus' knack at all man doo' mout'.
+870. Trouble no set like rain.
+871. T'row rockstone a-haag 'ty, haag cry "Quee," dá him it knack.
+872. Try you' boots fus' befo' you gie naddah man fo' 'tretch am. 
+873. Two cap'n can't 'teer wan ship.
+874. Two hill can't meet togeddah, but two man can.
+875. Two man a-mek lang 'tory.
+876. Two sense man can't libe a-wan house.
+877. Two sense man can't change half-bitt.
+878. Two t'ing a-run, one must' win.
+879. Ugly face no ugly heart.
+880. Ugly tell han'some, "Friken dis fo' me." 
+881. Unwillin' man nose mus' bleed.
+882. Vat no a-open 'nough time, dry weddah like rain weddah.
+883. Wah a-come, wai', you sa see am.
+884. Wah a-cry, á dem a-feel am.
+885. Wah gat luck sa win.
+886. Wah na gat foot mus' go befo'.
+887. Walk fo' not'in' bettah dan si' down fo' not'in'. 
+888. Was'eful man money go like buttah 'gainst de sun. 
+889. Wash you' own face befo' you wash you' matty wan. 
+890. Wash you' own sore befo' you look you' matty wan.
+891. Watah a-out fiah.
+892. Watah no a-'tink a-jar fo' not'in'.
+893. Watah no gat battam.
+894. Watah t'row 'way jug no broke.
+895. Watah t'row way na groun' can't pick up again.
+896. Watah wah run a-ribah las' yeah na a-run dis yeah.
+897. Watah wash, watah fall.
+898. Watch lion, but na mek he watch you.
+899. Wattle 'ouse gat yase.
+900. Weh cow tie, á-deh he a-graze.
+901. Weh haas go, jackass sa go too.
+902. Weh plenty watah deh mo' watah run. 
+903. Weh tap-off weak á-deh a goat does bore. 
+904. Well can't let bery well alone.
+905. Wha' a-go, leh he go.
+906. Wha' a-pass, look out quick befo' he pass.
+907. Wha' come from de debil back go undah he belly. 
+908. Wha' come out a-you belly no a-go in a-me own
+909. Wha' come out sa go in.
+910. Wha' da-house a-fo' you, wha' da-bush a-f' awe. 
+911. Wha' deh a-groun' fo' daag, but no all daag a-pick am.
+912. Wah' deh a stick head, deh a-snake head.
+913. Wha' deh a-you belly na mek am pass t'rough you' mout'.
+914. Wha' deh in de ol' goat mus' be in de picknie.
+915. Wha' fall a-fiah you sa fin' am a-ashes.
+916. Wha' fall from head go a-shouldah.
+917. Wha' fly bin a-do befo' cow get sore yeye?
+918. Wha' fly can do wid tu'tle' back?
+919. Wha' happen to black fowl sa happen to white fowl.
+920. Wha' hu't yeye mek nose run watah.
+921. Wha' Mahaica niggah bin a-do befo' Munro glandas haas dead? 
+922. Wha' motion quicksilver got a-battam, he na gat a-sluice.
+923. Wha' no good fo' breakfas' no good fo' dinnah.
+924. Wha' pass chase am let 'e go, wha' a-come si down wait am. 
+925. Wha' sense deb a-snake head, de same deh a-bostick-head. 
+926. Wha' some'ting tocle sa do wid cow-fly?
+927. Wha' yeye no see haat no bu'n.
+928. Wha' ears no heah haat no bu'n.
+929. Wha' you' eye no see you mout' no run watah. 
+930. Wha' you gain in jigging you lose in shuffling. 
+931. Wha' you put in de pickle nebbah 'pile.
+932. Wha' too heaby fo' you han' roll am a-groun'.
+933. Wha' you loss a-saucepan you mus' fin' a-bottom coal pot.
+934. When Buck wan' a-damage you he say "Fair play no pra pra." 
+935. When buil'in' a-ketch fiah massa beg labrah.
+936. When bull an' bull meet dey call matty "Bro."
+937. When bull an' bull a-chat, capoon na gat business deh. 
+938. When cassada an' ochro meet a-pat, pat mus' bu'n. 
+939. When cat belly full, he say "Ratta 'tink." 
+940. When cat na get milk, he 'membah bi'd a-bush. 
+941. When claninclo get yeye-tickle he t'ink hese'f gubnah.
+942. When claninclo nyam belly-full, he shake 'e wing 'pon 'e matty.
+943. When chiggah foot a rattan 'tuff am wid cattan. 
+944. When coc'nut fall from tree he can't fasten back. 
+945. When cockroach gie dance, he no hax fowl. 
+946. When cocoby man get money, 'e shake gubnah han' 
+947. When cuffman meet cuffman he say "Time no deh."
+948. When daag get lick he put 'e tail under he belly an' run an' halla fo' true, but look sharp when he come back.
+949. When flesin po'k sweet, man a-keep am lang a-he mout'. 
+950. When fowl an' fowl meet a-fowl country, tara tell tara "So by." 
+951. When fowl-cock get grog, he fo'get say "black 'andle knife deh a-kitchen."
+952. When fowl get teet' an' daag nyam razah.
+953. When galin see fish, he fo'get say "Gun deh."
+954. When goat down wan' roll he roll widout win' blow am. 
+955. When haas na deh, jackass mek fus' place.
+956. When he a-call Gad name, á de time he lie.
+957. When he deh he deh, when he na deh he na deh. 
+958. When herrin' fat a-bu'n, na all man a-smell am. 
+959. When hungry ketch coolie, he glad fo' eat po'k.
+960. When jackass kick man, man mus'n't baddah kick am back. 
+961. When li'l boy put on big man trouses, wha' he get he mus' take. 
+962. When li'l daag gat big libah, he go dead befo' 'e time. 
+963. When li'l niggah wan' run, gie am lang rope.
+964. When man a-go eat a-wan ooman 'ouse, he mus' leh a ooman eat fus'.
+965. When man a-go jump fence, he must look good befo' he jump. 
+966. When man a-write, no touch he pen.
+967. When man buy buttah, he matty chook he fingah deep.
+968. When man get good libin' he call God "Congah." 
+969. When man mek hese'f sugah, 'e matty suck am fo' true. 
+970. When man na gat match he tek fiah-'tick fo' light lamp. 
+971. When man suck cane, 'e mash 'e pilin' a-groun.' 
+972. When man wan' fo' beat daag, he 'fin' 'tick quick.
+973. When me foot itch me, a sign me go walk.
+974. When me lef' han' 'cratch me, money a-come.
+975. When me yeye a-dance, a sign me go cry.
+976. When one toot' hu't you, all de res' bex.
+977. When patwa see bait, 'e fo'get say "'Ook de a-battam."
+978. When puppy get plenty milk, he mek up he face 'pon sal' soup. 
+979. When rain a-drizzle, debil an' he wife a-fight fo' ham bone.
+980. When rain fall an' sun shining, debil licking he wife. 
+981. When rat see cat, 'e nebbah laugh.
+982. When saucepan loss he cobah, all man a-peep inside. 
+983. When sore can't get bettah, man gat fo' si' down bear am. 
+984. When ti'gah get ol', daag ba'k aftah am. 
+985. When tigal na deh, monkey gie ball. 
+986. When tigah sick, deer dun am fo' money.
+987. When trouble come, he no blow 'e shell.
+988. When trouble ketch Bacra, monkey breeches fit am.
+989. When trouble ketch man, he 'tan' up an' 'taggah; When trouble ketch ooman, him si-down an' considah.
+990. When two big bottle deh a-table, little wan no bu'iness. 
+991. When tub na got hoople, he mus' bruck down.
+992. When two daag get quarrel, Tom cat 'tan wan side. 
+993. When windah na good, 'e mek 'nough noise a-win'.
+994. When you bruddah soak, don' laugh he.
+995. When you' dead you no sabby, an' when you sabby, you dead done.
+996. When you get jackass fo' ride, ride am fo' true.
+997. When you go a-bush, no walk same road come back.
+998. When you go a-country weh dem a-dance wid one foot, dance wid one foot too.
+999. When you go a-frien' house, lef' you' 'tomach behin'.
+1,000. When you gat money, doo' open; when you no gat, he shut. 
+1,001. When you hab de debil fo' deal wid, feed am wid long 'poon. 
+1,002. When you' han' yalla, daag mek so.
+1,003. When you kill comma, min' how you carry am a-canoe. 
+1,004. When you lef' wake house, no say "Goo' night."
+1,005. When you mash daag, put on you' shoes.
+1,006. When you own louse bite you, he bite you fo' true.
+1,007. When you si' down doo' mout', always lef' room fo' jumby pass. 
+1,008. White daag no nyam white dang, but black sell he matty fo'one cent.
+1,009. Who de cap fit, leh 'e draw de 'tring.
+1,010. Who falla me, dem bu'n dem wood fo' mutton. 
+1,011. Who hab de langes' pole á he a-soun' deepes.' 
+1,012. Who no know dead, leh 'e look 'pon sleep. 
+1,013. Who play wid de puppy get bit wid de fleas. 
+1,014. Who put gungotay a-sun, á he a-look fo' rain. 
+1,015. Win' blow mo'tah, wha' you t'ink a-sifta? 
+1,016. Win' can't pass between dem.
+1,017. Wit'out a back stap, not'in'.
+1,018. Wo'kman no' dam wo'kman.
+1,019. Wo'k nebbah a kill man, but bungo (money) a-kill am.
+1,020. Woman 'ceiful like 'tar apple leaf.
+1,021. Woman mout' run like sick niggah drink sal's.
+1,022. Woman mout' run same like haas a-trat.
+1,023. Woman no die fo' true, he open he yeye fo' heah man 'tory.
+1,024. Woman tongue sweet fo' true.
+1,025. Woman wah lib a-no house, a no woman.
+1,026. Wors' payman, Cap'n Trus'.
+1,027. Yalla lime a-fall a-tree, an' green lime a-fall too.
+1,028. Yalla nigah na know e' race teh he tief.
+1,029. Yanga gal an' big 'tory man soon bruck down.
+1,030. Yanga gal full ob motions.
+1,031. Yanga gal haat like san' a-seaside, you write you' name deb fus' wave come wash am out.
+1,032. Yawarri no ca'e if guinea bi'd a-watchman.
+1,033. Yaw yo, yaw me.
+1,034. You a-wo'k a-sugah laf', you 'kin can't nassy wid paint.
+1,035. You bettah hang a man befo' you frighten he.
+1,036. You call tigah massa, he a-haul out he nail 'pon you, so call
+1,037. You can't tell from cat 'kin if he a-tief.
+1,038. You de mat, me de groun.'
+1,039. You eat fowl egg a-sweet, but fowl a-feel am.
+1,040. You enemy can't hu't you.
+1,041. You' eyes really pass me?
+1,042. You is like two faces undah one cap. 
+1,043. You knack you' drum, you dance youse'f.
+1,044. You leap 'alf, you fall a-trench.
+1,045. You look fo' 'tick fo' bruck you' own head.
+1,047. You' matty bu'iness you a-min, you lef' you dinkies a-grass.
+1,048. You mek you' bed saf', you sa lay down saf".
+1,049. You mout' run like a sore foot.
+1,050. You na know jumby, ask cow.
+1,051. You na rattan fo' me, me no 'tinkin' fo' you.
+1,052. You no able gie biscuit, no mek somebody loss bread.
+1,053. You no cleah groun' fo' monkey run 'pon.
+1,054. You no t'row Buck a-watah.
+1,055. You own shut you' yeye, matty own open you' yeye.
+1,056. You sabby run, you no sabby hide.
+1,057. You see matty face, you no see he haat.
+1,058. You see smoke, fiah deh.
+1,059. You no tek me name mek pass.
+1,060. Zulu man a-cry fo' libin', he no a-cry fo' han.'
+
+
