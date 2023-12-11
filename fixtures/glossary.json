@@ -1,0 +1,2375 @@
+[
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "The old English prefix, meaning on, in, progresssion, etc",
+            "creole": "A-(a-)"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "The dem. adj. pron. that",
+            "creole": "A' (\u00e1)"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "The colony hare",
+            "creole": "Accoori"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Ears",
+            "creole": "Aez"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Half",
+            "creole": "'Alf"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Alligator",
+            "creole": "Alligittal"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Him, her, it",
+            "creole": "Am"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Than",
+            "creole": "*An"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Unlucky",
+            "creole": "Anlucky"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "An exclamation expressive of sorrow or sympathy",
+            "creole": "Aow"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "We, us",
+            "creole": "Awee"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A piece of cloth for wrapping round the loins",
+            "creole": "Baba"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A white person",
+            "creole": "Bacra"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Bother, trouble",
+            "creole": "Baddah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Bark",
+            "creole": "Ba'k"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A cake made of flour, water, and salt",
+            "creole": "Bake-bake"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Bonfire",
+            "creole": "Banfiah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "The seed of the awarra palm",
+            "creole": "Banga"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Banjo",
+            "creole": "Banja"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Foreman, master",
+            "creole": "Bass"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A small boat",
+            "creole": "Batteau"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Before",
+            "creole": "Befo'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A trash hut",
+            "creole": "Benab"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Without",
+            "creole": "Berout"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Burying",
+            "creole": "Berrin'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Best",
+            "creole": "Besses"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Vex, vexed",
+            "creole": "Bex"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Bird",
+            "creole": "Bi'd"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Bag",
+            "creole": "Bieg"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Been",
+            "creole": "Bin"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Take hold of",
+            "creole": "Bode"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Break, broken, prick",
+            "creole": "Bore"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Boastful",
+            "creole": "Briggah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Brokon",
+            "creole": "Bruck"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "An aboriginal Indian",
+            "creole": "Buck"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Brother",
+            "creole": "Buddy"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Build",
+            "creole": "Buil'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Business",
+            "creole": "Bu'iness"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Burn",
+            "creole": "Bu'n"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Money",
+            "creole": "Bungo"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Burst",
+            "creole": "Bu's', buss"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Care",
+            "creole": "Ca'e"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": " Ugly",
+            "creole": "Caba"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "The fruit-shell of the enlabash tree, used for various domestic purposes",
+            "creole": "Calabash"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A vegetable used as greens",
+            "creole": "Calalu"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Scale",
+            "creole": "'Cale"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A boa constrictor",
+            "creole": "Camoodi"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Corner",
+            "creole": "Ca'nah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Scandal",
+            "creole": "'Candal"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Captain",
+            "creole": "Cap'n"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A steer",
+            "creole": "Capoon"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Carry",
+            "creole": "Car'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Scarlet",
+            "creole": "'Carlet"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Carrion",
+            "creole": "Carrin"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "The name of a bird",
+            "creole": "Carrow"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A plant of several varieties, hoth sweet and bitter. The tubers of the sweet are used as a vegetable, those of the bitter for making starch, etc",
+            "creole": "Cassada"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Caterpillar",
+            "creole": "Catapillah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Because",
+            "creole": "'Cause"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Deceitful",
+            "creole": "'Ceitful"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Chigoe, a minute troublesome flea which buries itself under the skin of the foot",
+            "creole": "Chiggah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Prick, thrust",
+            "creole": "Chook"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Stew",
+            "creole": "Chue"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Tune",
+            "creole": "Chune"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Stupid",
+            "creole": "Chupit"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Carrion crow",
+            "creole": "Clanin clo"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Cloth",
+            "creole": "Clat'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Clear, clean",
+            "creole": "Cleah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Cocoa nut",
+            "creole": "Coo' nut"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Colci",
+            "creole": "Col'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "The bush cow",
+            "creole": "Comma"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Corn",
+            "creole": "Co'n"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Thick porridge",
+            "creole": "Coo-coo"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "soup made of chipped plantain, pork, etc",
+            "creole": "Cotes-cotee"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Courting",
+            "creole": "Cou'tin'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Greedy",
+            "creole": "Craben"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "An itch",
+            "creole": "Cra-cra"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Scrape",
+            "creole": "'Crape"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A large frog",
+            "creole": "Crapaud"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Scratch",
+            "creole": "C'ratch"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A small river, a tributary",
+            "creole": "Creek"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Cover",
+            "creole": "Cubbah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Leprosy",
+            "creole": "Cockabah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Leprosy",
+            "creole": "Cockaby"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Carse",
+            "creole": "Cuss"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Cutlass",
+            "creole": "Cutlish"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "The",
+            "creole": "Da"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "The dem. adj. pron. that",
+            "creole": "D\u00e1"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Dog",
+            "creole": "Daag"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Doctor",
+            "creole": "Dactah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Dollar",
+            "creole": "Dallah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A bank for keeping back, or confining water; a road formed by such bank",
+            "creole": "Dam"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Death",
+            "creole": "Dead"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "There",
+            "creole": "Deh"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Implements",
+            "creole": "Dinkies"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Don't",
+            "creole": "Don'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Door",
+            "creole": "Doo'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Dung",
+            "creole": "Down"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Drive",
+            "creole": "Dribe"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Dirty",
+            "creole": "Dutty"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "He, his",
+            "creole": "'E"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Ever",
+            "creole": "Ebba"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Father",
+            "creole": "Fadda"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Follow",
+            "creole": "Falla"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A long path",
+            "creole": "Far-a-pa"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Fortune",
+            "creole": "Farchin"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Farther",
+            "creole": "Farra"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Favour",
+            "creole": "Favah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Fever",
+            "creole": "Febal"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Find",
+            "creole": "Fin'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "For",
+            "creole": "Fo"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Force",
+            "creole": "Fo'ce"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Pounded plantain",
+            "creole": "Foo-foo"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Truly, indeed",
+            "creole": "Fo' true"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Frighten",
+            "creole": "Friken"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Fill",
+            "creole": "Full"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "First",
+            "creole": "Fus"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Girl",
+            "creole": "Gal"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Species of ibis",
+            "creole": "Gaulin"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Species of ibis",
+            "creole": "Galin"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "The space prepared for the water mamma dance",
+            "creole": "Gandah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "The space prepared for the water mamma dance",
+            "creole": "Gangah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "God Almighty",
+            "creole": "Garamighty"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Give",
+            "creole": "Gie"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A penny",
+            "creole": "Gill"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Glanders",
+            "creole": "Glandas"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Good",
+            "creole": "Goo'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "The calabash as used for holding water",
+            "creole": "Gooby"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Gold",
+            "creole": "Gol'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Greed",
+            "creole": "Greedy"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Iguana, a lizard eaten by some creoles and Europeans",
+            "creole": "Guana"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Governor",
+            "creole": "Gubnah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Plantain or cassava flour",
+            "creole": "Gungotay"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Has, have",
+            "creole": "Ha'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Hard",
+            "creole": "Haad"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Horse",
+            "creole": "Hass"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Heart",
+            "creole": "Haat"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Twopence",
+            "creole": "Half-a-bitt"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Hollo",
+            "creole": "Halla"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Ants",
+            "creole": "Hanch"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Horn",
+            "creole": "Handle"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Heat",
+            "creole": "Hot"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Ask",
+            "creole": "\u041d\u0430\u0445"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "His",
+            "creole": "He"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Hang",
+            "creole": "Heng"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Himself",
+            "creole": "Hese'f"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Raise, lift up",
+            "creole": "Hise"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Hold",
+            "creole": "Hol'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Horn",
+            "creole": "Ho'n"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Hoop",
+            "creole": "Hoople"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "The name of a fish",
+            "creole": "Houri"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "How d'ye do",
+            "creole": "Howdee"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A large species of ant",
+            "creole": "Jackman"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A parasitic plant",
+            "creole": "Jango"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Jacket",
+            "creole": "Jeggeh"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "$8 80 or \u00a31 16 8",
+            "creole": "Joe"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "To prick",
+            "creole": "Jook"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A ghost",
+            "creole": "Jumbi"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A boot, shoe",
+            "creole": "Juta"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Catch",
+            "creole": "Ketch"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Cayman, alligator",
+            "creole": "Kiman"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Kind",
+            "creole": "Kin'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Skin",
+            "creole": "'Kin"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Knock",
+            "creole": "Knack"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A sluice",
+            "creole": "Kokah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Lord",
+            "creole": "Laud"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A small wild animal, the flesh of which is very delicate",
+            "creole": "Labba"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Labourer",
+            "creole": "Labrah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Learn, teach",
+            "creole": "La'n"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Long",
+            "creole": "Lang"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Find her mistake",
+            "creole": "Larikary"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Learned",
+            "creole": "Larnid"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Last, Lost",
+            "creole": "Las'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Eleven",
+            "creole": "Leb"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Left, leave",
+            "creole": "Lef'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Let",
+            "creole": "Leh"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Live, leave",
+            "creole": "Lib"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Liberty",
+            "creole": "Libaty"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Liver",
+            "creole": "Libbah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Lick his lips",
+            "creole": "Lickrish"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Little",
+            "creole": "Li'l"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Love",
+            "creole": "Lobe"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Long black hair",
+            "creole": "Lotan"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Lose",
+            "creole": "Loss"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Meagre",
+            "creole": "Magah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Manager",
+            "creole": "Manaja"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A fruit plentifully grown",
+            "creole": "Mango"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Morning",
+            "creole": "Ma'nin'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Marriage",
+            "creole": "Married"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Bruise, hurt",
+            "creole": "Mash"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Master",
+            "creole": "Massa"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A long wicker sieve used for straining cassava pulp",
+            "creole": "Matapee"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Fellow, neighbour",
+            "creole": "Matty"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Overtake, arrive at",
+            "creole": "Meet"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Make",
+            "creole": "Mek"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Remember",
+            "creole": "Membah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Middle",
+            "creole": "Mi'l"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Miss, mistress",
+            "creole": "Missy"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "More",
+            "creole": "Mo'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Mortar",
+            "creole": "Mo'tah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Musician",
+            "creole": "Musicianer"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "No, not",
+            "creole": "Na"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Another",
+            "creole": "Nadda"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A spider",
+            "creole": "Nancy"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Another",
+            "creole": "Narra"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Dirty",
+            "creole": "Nassy"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Never",
+            "creole": "Nebba"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Noise",
+            "creole": "Nise"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Foolish",
+            "creole": "Nonsense"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Nothing",
+            "creole": "Not'in'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Enough, too much",
+            "creole": "Nufi"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Used to",
+            "creole": "Nusc"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Eat",
+            "creole": "Nyam"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Over",
+            "creole": "Obah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Witchcraft",
+            "creole": "Obeah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A plaat, the fruit of which is very mucilaginous, and is used either in soup or as a side dish",
+            "creole": "Ochro"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Old",
+            "creole": "Ol'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Hole",
+            "creole": "'Ole"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Same as Houri",
+            "creole": "Ouri"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "House",
+            "creole": "'Ouse"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "To put out, extinguish",
+            "creole": "Out"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "One",
+            "creole": "Own"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Owner",
+            "creole": "Ownah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Path",
+            "creole": "Pa'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "To doubt",
+            "creole": "\u0420\u0430\u0441\u0430"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A prickly bush rope",
+            "creole": "Pamawarri"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Pasture",
+            "creole": "Pastah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Potato",
+            "creole": "Patata"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Pattern",
+            "creole": "Pattan"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "The name of a fish",
+            "creole": "Patwa"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A faney wicker basket",
+            "creole": "Pegall"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Pln. La Penitence",
+            "creole": "Penitant"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Steal",
+            "creole": "Pick"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Child, children",
+            "creole": "Picknie"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Spoil",
+            "creole": "'Pile"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Peeling",
+            "creole": "Pilin'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A thorn, thorny bush",
+            "creole": "Pimplah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Pleasure",
+            "creole": "Plesha"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Pleasure",
+            "creole": "Pledja"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Plower",
+            "creole": "Ploward"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Pork",
+            "creole": "Po'k"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Pond",
+            "creole": "Pou'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Upon",
+            "creole": "'Pon"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Poor",
+            "creole": "Poo'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Powder",
+            "creole": "Powdah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "To take hold of unawares, pilfer",
+            "creole": "Pra-pra"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Proper, very",
+            "creole": "Prap"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Purpose",
+            "creole": "Prupose"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Pumpkin",
+            "creole": "Punckin"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Pound",
+            "creole": "Pung"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Purse",
+            "creole": "Pu'se"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Mud",
+            "creole": "Putto-putto"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A wicker basket",
+            "creole": "Quake"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Rafter",
+            "creole": "Raftah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Rats",
+            "creole": "Ratta"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Rotten",
+            "creole": "Rattau"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Razor,",
+            "creole": "Razah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Rank",
+            "creole": "Renk"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Pln. Ruimveldt",
+            "creole": "Rumfelt"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Shall",
+            "creole": "Sa"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "To know, understand",
+            "creole": "Sabby"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Soft",
+            "creole": "Saf"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Softly",
+            "creole": "Saf'ly"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Sir",
+            "creole": "Sah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A lord, gentlemen",
+            "creole": "Sahib"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Salt",
+            "creole": "Sal"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Impudence",
+            "creole": "Saucy"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Salimpenter, a large lizard",
+            "creole": "Sal'pentah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Self",
+            "creole": "Se'f"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Say",
+            "creole": "Seh"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Send",
+            "creole": "Sen'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Frizzled",
+            "creole": "Sensa"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Wise, cunning",
+            "creole": "Sense"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Centipede",
+            "creole": "Sentapee"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Short",
+            "creole": "Shaat"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Shove",
+            "creole": "Shub"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Sit",
+            "creole": "Si'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Sifter",
+            "creole": "Siftah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A expression of surprise at seeing something unexpected",
+            "creole": "So by!"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Swallow",
+            "creole": "Swalla"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A religions festival among the East Indians",
+            "creole": "Tadja"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Stagger",
+            "creole": "'Taggah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Stop-off",
+            "creole": "\"Taff-aff"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Stand",
+            "creole": "\"Tan'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Top, above, heaven",
+            "creole": "Tap"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Stop",
+            "creole": "\"Tap"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Star",
+            "creole": "\"Tar"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "The other",
+            "creole": "Tarra"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Taste",
+            "creole": "Tas'e"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Steam",
+            "creole": "\"Team"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Teeth",
+            "creole": "Teet"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Till",
+            "creole": "Teh"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Take,",
+            "creole": "Tek"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Thank",
+            "creole": "Teng"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Thank you",
+            "creole": "Tenkee"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Stick",
+            "creole": "\"Tick"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Fasten, instened",
+            "creole": "Tie"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Steal",
+            "creole": "Tief"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Thing",
+            "creole": "Ting"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Think",
+            "creole": "Tink"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Stir",
+            "creole": "\"Tir"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Stomach",
+            "creole": "\"Tomnch"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Astonish",
+            "creole": "Touish"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A species of palm",
+            "creole": "Tooroo"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Story",
+            "creole": "\"Tory"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Strong",
+            "creole": "'Trang"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Stranger",
+            "creole": "\"Tranja"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Straw",
+            "creole": "Traw"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Three",
+            "creole": "Tree"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Trousers",
+            "creole": "Trouses"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Trust",
+            "creole": "Trus'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Stuff",
+            "creole": "\"Tuff"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Stamp",
+            "creole": "\"Tump"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Turn",
+            "creole": "Tu'n"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Tongue",
+            "creole": "Tung"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Thirsty",
+            "creole": "\u0422usty"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Turtle",
+            "creole": "Tuttle"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Wrong, evil",
+            "creole": "Ugly"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Who, which",
+            "creole": "Wah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Wait",
+            "creole": "Wai'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "One",
+            "creole": "Wan"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Want",
+            "creole": "Wan'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Wash",
+            "creole": "Was'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Wastefu!",
+            "creole": "Was'eful"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "The water-cow, regarded as the embodiment of the evil spirit",
+            "creole": "Watah-mamma"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Away",
+            "creole": "Way"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Where",
+            "creole": "Weh"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "What",
+            "creole": "Wha'"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Without",
+            "creole": "Widout"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Work",
+            "creole": "Wo'k"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Worst",
+            "creole": "Wossest"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Here",
+            "creole": "Yah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Yellow",
+            "creole": "Yalla"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Yonder",
+            "creole": "Yandah"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Gay, swellish",
+            "creole": "Yanga"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Ears",
+            "creole": "Yase"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "A small wild animal",
+            "creole": "Yawarri"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Hear",
+            "creole": "Yeddy"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Hear",
+            "creole": "Yerry"
+        }
+    },
+    {
+        "model": "base.entry",
+        "fields": {
+            "english": "Eye",
+            "creole": "Yeye"
+        }
+    }
+]
